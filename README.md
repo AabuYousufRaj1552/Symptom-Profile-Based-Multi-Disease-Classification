@@ -1,4 +1,4 @@
-# Disease Prediction using Machine Learning
+# Predicting Human Diseases from Symptom Profiles Using Multi-Class Classification Models
 
 A comprehensive machine learning project that compares multiple classification algorithms for disease prediction based on patient symptoms and medical conditions.
 
@@ -115,20 +115,18 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
-
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Add dataset source if applicable]
+- Dataset source: Kaggle [https://www.kaggle.com/datasets/follynamylus/diseases-prediction-dataset]
 - Course: CSE437 (if this is a course project)
 - Special thanks to contributors and reviewers
 
 ## 📞 Contact
 
-For questions or feedback, please open an issue or contact [your-email@example.com]
+For questions or feedback, please open an issue or contact [aabuyousufraj@gmail.com]
 
 ---
 
 **Note**: Make sure to update the data source link in the notebook if you're using a different dataset location.
+
